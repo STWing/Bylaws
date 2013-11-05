@@ -1,11 +1,3 @@
-# The Official Bylaws of the Science and Technology Wing
-
-Kings Court English College House, University of Pennsylvania
-
-*Last Amended November \_\_th, 2013*
-
--------------------------------------------------------------------------------
-
 # Bylaws
 
 The Bylaws of **The Science and Technology Wing** at the University of
