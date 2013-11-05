@@ -41,13 +41,13 @@ status or Alumni Member status.
 ### SECTION 2
 
 In order to become an active Member of STWing, an individual must attend a
-General Body Meeting (see Article V, Section 1) and request membership by
-obtaining an account on STWing’s main server, Force.
+General Body Meeting (see [Article V, Section 1](#section-1-2)) and request
+membership by obtaining an account on STWing’s main server, Force.
 
 ### SECTION 3
 
 All Student Members of the previous year shall be assumed to be Members unless
-they otherwise inform the Continuum (see Article IV, Section 1).
+they otherwise inform the Continuum (see [Article IV, Section 1](#section-1-1)).
 In order to maintain Membership, an Undergraduate Member is required to attend
 two thirds of the General Body Meetings held each semester, or have a valid
 excuse for absence, limited to health, family, or academic reasons.
@@ -65,8 +65,8 @@ A Probationary Member is defined as one who has not met the Membership retention
 requirements as set forth in the previous section.
 A Probationary Member is subject to the following restrictions:
 
-* No longer considered a member of the General Voting Body (see Article 3,
-Section 5)
+* No longer considered a member of the General Voting Body (see [Article III,
+Section 5](#section-5))
 * Restricted rights to STWing computing resources at the discretion of the
 Systems Administrator.
 * Lowered priority for preferential housing in Major STWing Communities.
@@ -152,7 +152,7 @@ semesters.
 ##### Radar
 
 * Publicizes all STWing events and communicates all STWing information as per
-the rules of Proper Advertising (see Article V, Section 4).
+the rules of Proper Advertising (see [Article V, Section 4](#section-4-2)).
 * Maintains a public calendar of STWing events.
 * Helps schedule future events (i.e., prevent time conflicts).
 
