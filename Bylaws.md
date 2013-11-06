@@ -3,9 +3,9 @@
 The Bylaws of **The Science and Technology Wing** at the University of
 Pennsylvania:
 
-These bylaws were created by present members of STWing in a unanimous vote.
+These bylaws were created by present members of STWing in a majority vote.
 They represent both our rules and our mission.
-The bylaws were last amended on November 4th, 2013.
+The bylaws were last amended on November 5th, 2013.
 
 ## Article I: Name
 
