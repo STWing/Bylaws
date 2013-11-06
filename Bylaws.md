@@ -5,7 +5,7 @@ Pennsylvania:
 
 These bylaws were created by present members of STWing in a unanimous vote.
 They represent both our rules and our mission.
-The bylaws were last amended on November \_\_th, 2013.
+The bylaws were last amended on November 4th, 2013.
 
 ## Article I: Name
 
