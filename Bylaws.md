@@ -27,7 +27,7 @@ A Student Member of STWing is defined as an individual who has met the
 membership requirements set forth in Section 2.
 An Alumni Member of STWing is any member who has formally left the University of
 Pennsylvania as a student, and was in good standing with STWing before leaving.
-A graduate student at the University may choose either Undergraduate Member
+A graduate student at the University may choose either Student Member
 status or Alumni Member status.
 
 ### SECTION 2
@@ -40,7 +40,7 @@ membership by obtaining an account on STWing’s main server, Force.
 
 All Student Members of the previous year shall be assumed to be Members unless
 they otherwise inform the Continuum (see [Article IV, Section 1](#section-1-1)).
-In order to maintain Membership, an Undergraduate Member is required to attend
+In order to maintain Membership, a Student Member is required to attend
 two thirds of the General Body Meetings held each semester, or have a valid
 excuse for absence, limited to health, family, or academic reasons.
 Extracurricular activities do not constitute as valid excuses for absences.
