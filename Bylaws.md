@@ -107,8 +107,8 @@ The non-voting members of the Continuum shall be Resident Advisors and Graduate
 Associates of official STWing communities, and the STWing Sysadmin.
 Their responsibilities and other details are included below:
 
-#### Non-Elected (i.e. assigned by Residential Living) Continuum Members
-##### Residential Advisor / Graduate Associate
+#### Non-Elected Continuum Members
+##### Residential Advisor / Graduate Associate (assigned by Residential Living)
 
 * Approves spending of floor resources.
 * Fills out program assessment forms for Residential Living.
@@ -116,7 +116,7 @@ Their responsibilities and other details are included below:
 * Is presiding officer of STWing meetings in event that the Parliamentarian (see
 below) is unavailable to do so.
 
-##### STWing Sysadmin
+##### STWing Sysadmin (chosen by previous Sysadmin)
 
 * Maintains and administers all STWing computing resources, defined as all
 computers owned by STWing and all computers in the STWING.UPENN.EDU subdomain.
