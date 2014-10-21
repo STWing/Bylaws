@@ -253,7 +253,7 @@ A simple majority vote of the Continuum, excluding the indicted member, shall be
 sufficient to require a tribunal before a General Body.
 The Continuum shall review the member in question before the General Body, and
 subsequently vote as to whether to remove him or her from the Continuum.
-An eighty percent vote of the Continuum is necessary to expel a Continuum
+An eighty percent vote of the General Body is necessary to expel a Continuum
 member.
 The indicted member may not vote, but may speak in his or her own defense.
 Furthermore, an expelled member may not run again at the next election.
