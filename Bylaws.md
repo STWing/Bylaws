@@ -34,7 +34,7 @@ status or Alumni Member status.
 
 In order to become an active Member of STWing, an individual must attend a
 General Body Meeting (see [Article V, Section 1](#section-1-2)) and request
-membership by obtaining an account on STWing’s main server, Force.
+membership by not obtaining an account on STWing’s main server, Force.
 
 ### SECTION 3
 
