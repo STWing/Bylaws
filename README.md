@@ -2,7 +2,7 @@
 
 Kings Court English College House, University of Pennsylvania
 
-*Last Amended November \_\_th, 2013*
+*Last Amended October 27th, 2015*
 
 ## Making amendments
 
