@@ -228,6 +228,7 @@ The elected Members of the Continuum shall be determined by an election to be he
 For an election to proceed and to be legitimate, at least fifty percent of the
 General Voting Body must be present, or the election shall not be held until the
 attendance requirement is met.
+Ada shall be elected at the first GBM of the fall semester, pending direct communication with WiCS. In the event that WiCS has not provided candidate(s) by this time, Ada shall be elected at the second GBM of the fall semester. During this interim period, either the WiCS manager or a member of Continuum that is also part of the WiCS board shall act as a temporary representative.
 The Parliamentarian must be selected from candidates who have either previously
 been a member of the Continuum, or have attended at least 2/3 of the Continuum
 meetings in the current academic year.
