@@ -213,6 +213,15 @@ program
 * Shall report STWing events at WiCS GBMs, and WiCS events at STWing GBMs
 * Shall assist in organizing joint events between STWing and WiCS.
 
+##### Gandalf
+
+* Ensures that the views and opinions of off-floor upperclassmen members of STWing are being addressed by Continuum.
+* Liaison between the on-floor and off-floor members of STWing, with the purpose of strengthening the community between the two groups.
+* Should be a member of STWing that has lived on the floor for at least one year previously, but is currently not living in Kings Court or English House.
+* Shall organize and host at least two events per semester to acquaint off-floor and on-floor STWingers.
+* Shall be elected at the first GBM of the fall semester.
+* During the fall semester, if there are afew upperclassmen off-floor, there will be an vote to decide if the position should be elected that year.
+
 ### SECTION 3
 
 The elected Members of the Continuum shall be determined by an election to be held at the first general body meeting of the second semester of each academic year, where the term of election shall be one calendar year and one month with no term limits. The outgoing Continuum members shall overlap with the incoming Continuum members for the period of one month, during which all responsibilities will be transferred to the incoming Continuum. The outgoing Continuum is strongly encouraged to attend Continuum meetings for an additional month to advise the new members. However, the following Continuum positions shall be elected at the first general body meeting of the fall semester: Wall-E, Ada, Samwise, Frodo, and Gandalf. The term of election on these positions shall be one calendar year from the time of election.
