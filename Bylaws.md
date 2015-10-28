@@ -215,13 +215,7 @@ program
 
 ### SECTION 3
 
-The elected Members of the Continuum shall be determined by an election to be
-held at the first general body meeting of the second semester of each academic
-year, where the term of election shall be one calendar year with no term limits.
-However, the following Continuum positions shall be elected at the first general
-body meeting of the fall semester: Wall-E, Ada, Samwise, and Frodo.
-The term of election on these positions shall also be one calendar year from the
-time of election.
+The elected Members of the Continuum shall be determined by an election to be held at the first general body meeting of the second semester of each academic year, where the term of election shall be one calendar year and one month with no term limits. The outgoing Continuum members shall overlap with the incoming Continuum members for the period of one month, during which all responsibilities will be transferred to the incoming Continuum. The outgoing Continuum is strongly encouraged to attend Continuum meetings for an additional month to advise the new members. However, the following Continuum positions shall be elected at the first general body meeting of the fall semester: Wall-E, Ada, Samwise, Frodo, and Gandalf. The term of election on these positions shall be one calendar year from the time of election.
 For an election to proceed and to be legitimate, at least fifty percent of the
 General Voting Body must be present, or the election shall not be held until the
 attendance requirement is met.
